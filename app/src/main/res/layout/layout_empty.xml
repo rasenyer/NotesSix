@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:padding="10dp"
+    android:alpha="0.4"
+    android:text="@string/no_notes"
+    android:textColor="@color/color_text"
+    android:textAppearance="?attr/textAppearanceSearchResultTitle"
+    android:fontFamily="@font/google_sans_bold"
+    android:background="@color/color_background"/>
